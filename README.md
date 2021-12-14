@@ -1,4 +1,13 @@
 ### Hi there 👋
+I am mainly working on several IoT projects, which are mostly related to the [ioBroker](https://github.com/ioBroker/ioBroker) project. Most of the time I am working on the heart of this modular system, the [js-controller](https://github.com/ioBroker/ioBroker.js-controller).
+
+Working on the controller gives me the ability to improve the stability as well as adding features to the system of every ioBroker user. Additonally, we try to make the life of every adapter developer easier with every commit. Furthermore, I am devloping a bunch of adapters, which either support us in development related tasks, like [benchmarking changes in the controller](https://github.com/foxriver76/ioBroker.benchmark) or give the ability to connect devices, like [all kind of HomeMatic devices](https://github.com/ioBroker/ioBroker.hm-rpc), [AV Receivers](https://github.com/foxriver76/ioBroker.denon) or [to even manage shopping lists](https://github.com/foxriver76/ioBroker.denon). Additionally, I am developing [libraries](https://github.com/foxriver76/node-bring-api) which can be used by other smart home developers too. 🧰
+
+Professionally, I am a PhD student in the field of machine learning, more specifically stream analysis. Here I also try to [share](https://dblp.org/pid/239/7317.html) the newly created knowledge during my reasearch. 📰
+
+As a compensation to all the coding I do lots of sport in form of Powerlifting and Luta Livre. 🤼‍♂️
+
+To spend even more time improving the ioBroker system, as well as sharing code and knowledge, I am very happy about every supporter: https://github.com/sponsors/foxriver76
 
 <!--
 **foxriver76/foxriver76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
