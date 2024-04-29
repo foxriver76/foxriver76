@@ -3,7 +3,8 @@ I am mainly working on several IoT projects, which are mostly related to the [io
 
 Working on the controller gives me the ability to improve the stability as well as adding features to the system of every ioBroker user. Additonally, we try to make the life of every adapter developer easier with every commit. Furthermore, I am devloping a bunch of adapters, which either support us in development related tasks, like [benchmarking changes in the controller](https://github.com/foxriver76/ioBroker.benchmark) or give the ability to connect devices, like [all kind of HomeMatic devices](https://github.com/ioBroker/ioBroker.hm-rpc), [AV Receivers](https://github.com/foxriver76/ioBroker.denon) or [to even manage shopping lists](https://github.com/foxriver76/ioBroker.denon). Additionally, I am developing [libraries](https://github.com/foxriver76/node-bring-api) which can be used by other smart home developers too. 🧰
 
-Professionally, I am a PhD student in the field of machine learning, more specifically stream analysis. Here I also try to [share](https://dblp.org/pid/239/7317.html) the newly created knowledge during my reasearch. 📰
+Professionally I am a Fullstack developer at itemis AG.
+Before starting my Developer carrier, I did a PhD in the field of machine learning, more specifically stream analysis. Here I also tried to [share](https://dblp.org/pid/239/7317.html) the newly created knowledge during my reasearch. 📰
 
 As a compensation to all the coding I do lots of sport in form of Powerlifting and Luta Livre. 🤼‍♂️
 
